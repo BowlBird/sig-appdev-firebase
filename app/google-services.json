@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404690664536",
+    "project_id": "sig-appdev-firebase",
+    "storage_bucket": "sig-appdev-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404690664536:android:eac15383ddf5c57e58de2d",
+        "android_client_info": {
+          "package_name": "com.github.bowlbird.sig_appdev_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBK3w4juzavnCmzVESkguspHEMeS-9BkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
